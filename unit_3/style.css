@@ -1,0 +1,30 @@
+
+body {
+  background: url(images/DSC_0201.jpg); ;
+  background-size: cover;
+}
+
+h1 {
+  text-align: left;
+  position: absolute;
+  font-size: 54px;
+  font-family: Arial; 
+  color: #FFFFFF;
+
+}
+
+
+
+p {
+  font-size:34px; 
+  font-family: Arial;
+  color:#FFFFFF;
+}
+
+a {
+	color: #FFFFFF;
+font-size: 14px;
+	text-align: left;
+}
+
+
